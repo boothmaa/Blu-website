@@ -1,8 +1,16 @@
-h1, h2 {
-    font-family: 'Open Sans', sans-serif;
+.btn-primary {
+    background-color: black;
+    border-color: black;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2cm;
 }
 
 .hero {
-    background-color: #f9f7fe ;
+    background-color: #104EB2;
     text-align: center;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
 }
