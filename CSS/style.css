@@ -19,6 +19,17 @@ h3 {
     font-size: 20px;
 }
 
+.btn-branding-outline {
+    border-radius: 3px;
+    color: whitesmoke;
+    background-color: var(--blu-color);
+}
+
+#WARNING {
+color: red;
+font-size: 40px;
+}
+
 .hero {
     background-color: var(--blu-color);
     text-align: center;
