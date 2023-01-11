@@ -1,16 +1,28 @@
+:root {
+    --blu-color: #104EB2
+}
+
 .btn-primary {
     background-color: black;
     border-color: black;
+    padding: 20px;
+    margin-top: 70px;
 }
 
 h1 {
     font-weight: 700;
-    font-size: 2cm;
+    font-size: 95px;
+    margin: 40px 10px;
+}
+
+h3 {
+    font-size: 20px;
 }
 
 .hero {
-    background-color: #104EB2;
+    background-color: var(--blu-color);
     text-align: center;
     color: whitesmoke;
+    padding: 170px 20px;
     font-family: 'Open Sans', sans-serif;
 }
