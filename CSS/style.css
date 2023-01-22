@@ -55,3 +55,19 @@ img {
     max-width: 200px;
     border-radius: 10px;
 }
+
+nav a {
+    text-decoration: none;
+    color: gray;
+}
+
+nav li{ 
+    display: inline;
+    margin: 15px;
+    padding: 10px;
+
+}
+
+ul {
+    margin-top: 20px;
+}
