@@ -9,6 +9,8 @@
     margin-top: 70px;
 }
 
+
+
 h1 {
     font-weight: 700;
     font-size: 95px;
@@ -82,5 +84,9 @@ footer a {
 }
 
 footer a:hover {
+    color: blue;
+}
+
+.active {
     color: blue;
 }
