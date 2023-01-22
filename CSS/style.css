@@ -71,3 +71,14 @@ nav li{
 ul {
     margin-top: 20px;
 }
+
+footer a {
+    text-decoration: none;
+    color: gray;
+    display: block;
+    text-align: center;
+}
+
+footer a:hover {
+    color: blue;
+}
